@@ -16,3 +16,15 @@ mod "puppetlabs/apache",      '1.11.0'
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
+
+mod 'ntp',
+   :git    => 'https://github.com/jteck28/puppet-ntp.git',
+   :ref    => 'master'
+
+mod 'ntp',
+   :git    => 'https://github.com/jteck28/puppet-role.git',
+   :ref    => 'master'
+
+mod 'ntp',
+   :git    => 'https://github.com/jteck28/puppet-profile.git',
+   :ref    => 'master'
