@@ -19,12 +19,12 @@ mod "puppetlabs/apache",      '1.11.0'
 
 mod 'ntp',
    :git    => 'https://github.com/jteck28/puppet-ntp.git',
-   :ref    => 'master'
+   :ref    => 'production'
 
 mod 'ntp',
    :git    => 'https://github.com/jteck28/puppet-role.git',
-   :ref    => 'master'
+   :ref    => 'production'
 
 mod 'ntp',
    :git    => 'https://github.com/jteck28/puppet-profile.git',
-   :ref    => 'master'
+   :ref    => 'production'
