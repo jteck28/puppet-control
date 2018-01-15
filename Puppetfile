@@ -21,10 +21,10 @@ mod 'ntp',
    :git    => 'https://github.com/jteck28/puppet-ntp.git',
    :ref    => 'master'
 
-mod 'ntp',
+mod 'role',
    :git    => 'https://github.com/jteck28/puppet-role.git',
    :ref    => 'master'
 
-mod 'ntp',
+mod 'profile',
    :git    => 'https://github.com/jteck28/puppet-profile.git',
    :ref    => 'master'
